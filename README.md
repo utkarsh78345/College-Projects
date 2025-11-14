@@ -53,7 +53,3 @@ library-management/
 ├── README.md
 └── database.sql      # Database schema
 ```
-
----
-
-If you'd like, I can add **screenshots, installation steps, usage instructions, or feature descriptions** to make the README even better.

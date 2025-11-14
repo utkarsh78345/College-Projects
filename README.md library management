@@ -1,0 +1,43 @@
+library management
+
+Shri Ramswaroop Memorial University
+
+Submitted by
+
+Utkarsh Mishra - 202210101150003
+Kaustubh singh - 202210101150054
+Rishabh pal - 202210101150004
+Adarsh jaiswal - 20221010115017
+Project overview 
+
+The Library Management System (LMS) is a software application designed to manage the operations of a library efficiently. It helps librarians and users handle tasks like book issue, return, catalog management, and membership records through a computerized system. The goal is to reduce manual work, increase accuracy, and provide faster service.
+
+2. Objectives
+
+Automate daily library tasks.
+
+Maintain digital records of books and members.
+
+Track issued, returned, and overdue books.
+
+Reduce paperwork and human error.
+
+Provide quick search and accessibility.
+
+Improve the overall management process.
+
+Technologies Used:
+
+The Library Management System is developed using HTML, CSS, JavaScript for the front-end interface and Python (Flask) as the back-end framework. The data is stored in a MySQL database, and the system runs on Apache 
+ using XAMPP. The project was developed using VS Code with GitHub for version contro
+ 
+l.Project structure
+library-management/
+│
+├── assets/           # CSS, JS, images
+├── models/           # DB models (Book, Member, Transaction)
+├── routes/           # API routes
+├── views/            # HTML templates
+├── app.js            # Main server file
+├── README.md
+└── database.sql      # DB schema
